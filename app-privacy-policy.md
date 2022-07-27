@@ -1,3 +1,3 @@
-## FIS-J プライバシーポリシー
+## AirTote プライバシーポリシー
 
 Now writing...

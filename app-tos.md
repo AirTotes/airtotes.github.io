@@ -1,3 +1,3 @@
-## FIS-J 利用規約
+## AirTote 利用規約
 
 Now writing...
