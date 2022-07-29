@@ -11,6 +11,8 @@ _日本の小型機パイロットに革命を！_
 
 AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自由です！**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/asBaW7ni6dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 1. All in One Map
 
 アプリを開くと、いちばん初めに地図が表示されます！
