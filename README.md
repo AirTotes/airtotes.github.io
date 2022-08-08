@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fly with AirTote!
+permalink: /
 ---
 
 Japanese (Unofficial) Flight Information Service
