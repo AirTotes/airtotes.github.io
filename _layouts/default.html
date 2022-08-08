@@ -8,8 +8,7 @@
 {% seo %}
     {% endcapture %}
     <!-- ref: https://github.com/jekyll/jekyll-seo-tag/issues/465 -->
-    {{ seoWithProperTwitterMetaTags | replace: 'property="twitter:title"', 'name="twitter:title"' }}
-    {{ seoWithProperTwitterMetaTags | replace: 'property="twitter:image"', 'name="twitter:image"' }}
+    {{ seoWithProperTwitterMetaTags | replace: 'property="twitter:title"', 'name="twitter:title"' | replace: 'property="twitter:image"', 'name="twitter:image"' }}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
