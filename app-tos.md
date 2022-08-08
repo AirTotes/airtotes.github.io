@@ -1,4 +1,5 @@
 ---
+layout: default
 title: AirTote 利用規約
 ---
 
