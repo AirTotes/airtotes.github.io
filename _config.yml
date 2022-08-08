@@ -1,3 +1,9 @@
 theme: jekyll-theme-dinky
 title: AirTote
 description: Japanese (Unofficial) Flight Information Service
+lang: ja-JP
+
+logo: /images/appiconfore.png
+image: /images/appiconfore.png
+
+locale: ja_JP
