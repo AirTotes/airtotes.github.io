@@ -1,4 +1,6 @@
-# AirTote
+---
+title: Fly with AirTote!
+---
 
 Japanese (Unofficial) Flight Information Service
 
