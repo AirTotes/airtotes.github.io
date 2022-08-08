@@ -1,0 +1,32 @@
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+<!-- You can set your favicon here -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}"/>
+
+<!-- OGP image -->
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:site_name" content="{{ site.title }}" />
+
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+{% else %}
+<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+
+{% if page.preview %}
+<meta property="og:image" content="{{ site.url }}{{ page.preview }}" />
+{% else %}
+<meta property="og:image" content="{{ site.url }}images/appiconfore.png" />
+{% endif %}
+
+{% if page.ogptype %}
+<meta property="og:type" content="{{ page.ogptype }}" />
+{% else %}
+<meta property="og:type" content="article" />
+{% endif %}
+
+<!-- end custom head snippets -->

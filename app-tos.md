@@ -1,3 +1,6 @@
-## AirTote 利用規約
+---
+layout: default
+title: AirTote 利用規約
+---
 
 Now writing...
