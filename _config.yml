@@ -13,3 +13,5 @@ defaults:
       path: ""
     values:
       image: /images/appiconfore.png
+      twitter:
+        card: summary
