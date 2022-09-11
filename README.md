@@ -16,7 +16,7 @@ _日本の小型機パイロットに革命を！_
 AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自由です！**
 
 <div class="iframe-4-3">
-<iframe src="https://www.youtube-nocookie.com/embed/asBaW7ni6dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/MYILD3-Zn5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 1. All in One Map
