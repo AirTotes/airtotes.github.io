@@ -19,6 +19,10 @@ AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自�
 <iframe src="https://www.youtube-nocookie.com/embed/MYILD3-Zn5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## 技育展2022で優秀賞を受賞しました!🎉
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">🏆 <a href="https://twitter.com/hashtag/%E6%8A%80%E8%82%B2%E5%B1%95?src=hash&amp;ref_src=twsrc%5Etfw">#技育展</a> 2022 結果発表 🏆<br>【事業化目指してます】<br><br>優秀賞3作品は・・・<br><br>🏅 FINGER PAY<br>🏅 AirTote<br>🏅 e-lamp.<br><br>が受賞されました！<br>🙌🙌 おめでとうございます 🙌🙌<a href="https://twitter.com/hashtag/%E3%82%AA%E3%83%B3%E3%82%A8%E3%82%A2%E4%B8%AD?src=hash&amp;ref_src=twsrc%5Etfw">#オンエア中</a><a href="https://twitter.com/hashtag/15%E6%99%82%E3%81%8B%E3%82%89%E6%9C%80%E5%84%AA%E7%A7%80%E8%B3%9E%E3%81%AE%E5%86%8D%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3?src=hash&amp;ref_src=twsrc%5Etfw">#15時から最優秀賞の再プレゼン</a> <a href="https://t.co/6UflROVoQG">pic.twitter.com/6UflROVoQG</a></p>&mdash; 【公式】技育プロジェクト (@geek_pjt) <a href="https://twitter.com/geek_pjt/status/1573170254725140480?ref_src=twsrc%5Etfw">September 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 1. All in One Map
 
 アプリを開くと、いちばん初めに地図が表示されます！
