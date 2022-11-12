@@ -42,7 +42,7 @@ jobs:
           JEKYLL_ENV: production
 
       - name: Change Permission
-        run: chmod 604 '${{ env.OUT_DIR }}/**/*'
+        run: find ${{ env.OUT_DIR }} -type f -follow -exec chmod 604 '{}' \;
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
