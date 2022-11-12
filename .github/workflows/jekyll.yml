@@ -15,8 +15,12 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  SSH_PRIVATE_KEY_FILE: private.key
+
+
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -34,16 +38,25 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - name: Change Permission
+        run: chmod 604 '${{ steps.pages.outputs.base_path }}/**/*'
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+      - name: set private key value
+        run: echo "$SSH_PRIVATE_KEY" > ${{ env.SSH_PRIVATE_KEY_FILE }}
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      - name: change permissions of SSH_PRIVATE_KEY_FILE
+        run: chmod 600 ${{ env.SSH_PRIVATE_KEY_FILE }}
+
+      - name: Upload files
+        env:
+          REMOTE_TARGET_DIR: web/airtote-jp/
+        run: >
+          rsync -av
+          -e "ssh -o StrictHostKeyChecking=no -i ${{ env.SSH_PRIVATE_KEY_FILE }} ${{ secrets.SSH_PORT_OPT_ARG }}"
+          ${{ steps.pages.outputs.base_path }}/
+          ${{ secrets.SSH_USER_NAME }}@ssh.lolipop.jp:${{ env.REMOTE_TARGET_DIR }}
