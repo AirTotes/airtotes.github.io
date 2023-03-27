@@ -6,14 +6,14 @@ permalink: /
 
 Japanese (Unofficial) Flight Information Service
 
-_日本の小型機パイロットに革命を！_
+_日本のGenaral Aviationに革命を！
 
-- フライトの度に、事務所のパソコンと睨めっこしていませんか？
-- 色々なところにある資料をまとめて、また組み合わせてフライトプランを練る作業、疲れませんか？
+- フライトの度に、気象情報提供室や航空情報提供室のパソコンと睨めっこしていませんか？
+- 多岐にわたるWebサイトで資料をまとめて、また組み合わせてフライトプランを練る作業、疲れませんか？
 - わかりにくい公式資料に嫌気がさしたことはありませんか？
 - 空港事務所まで行って書類提出、対面かつ現金での使用料支払いetc... 大変じゃないですか？
 
-AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自由です!！**
+AirToteでより便利により気軽にフライトできるようサポートいたします！ **あなた専用のディスパッチを！**
 
 <div class="iframe-4-3">
 <iframe src="https://www.youtube-nocookie.com/embed/MYILD3-Zn5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -25,9 +25,7 @@ AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自�
 
 ## 1. All in One Map
 
-アプリを開くと、いちばん初めに地図が表示されます！
-
-地図には、フライトに必要な全ての情報が表示されます。
+この航空図には、
 
 ---
 
