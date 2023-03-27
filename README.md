@@ -13,7 +13,7 @@ _日本の小型機パイロットに革命を！_
 - わかりにくい公式資料に嫌気がさしたことはありませんか？
 - 空港事務所まで行って書類提出、対面かつ現金での使用料支払いetc... 大変じゃないですか？
 
-AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自由です！**
+AirToteで苦労とおさらばしましょう！ **あなたの翼はもう自由です!！**
 
 <div class="iframe-4-3">
 <iframe src="https://www.youtube-nocookie.com/embed/MYILD3-Zn5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
